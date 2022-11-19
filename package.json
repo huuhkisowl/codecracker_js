@@ -1,0 +1,23 @@
+{
+  "name": "codecracker_js",
+  "version": "1.0.0",
+  "description": "Coding dojo kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huuhkisowl/codecracker_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huuhkisowl/codecracker_js/issues"
+  },
+  "homepage": "https://github.com/huuhkisowl/codecracker_js#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
