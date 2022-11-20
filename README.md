@@ -1,5 +1,7 @@
 # codecracker_js
-Coding dojo kata
+Solution case for code cracker from Coding dojo kata
 
-1. Run command, npm install
-2. Testing codes with Jest, npm run test
+https://codingdojo.org/kata/CodeCracker/
+
+1. For Jest need dependencies, run command: npm install
+2. Testing the codecracker with Jest, npm run test
